@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "Mr",
+      "firstName": "Jon Wolfgang",
+      "lastName": "Copper"
+    },
+    {
+      "id": 2,
+      "title": "Mr",
+      "firstName": "James",
+      "lastName": "Cartoony"
+    },
+    {
+      "id": 3,
+      "title": "Mrs",
+      "firstName": "Annika",
+      "lastName": "Copper"
+    }
+  ]
+}

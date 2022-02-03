@@ -1,0 +1,15 @@
+{
+  "name": "json",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "json files operations",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server --watch data/data.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jason-server": "^3.0.0"
+  }
+}
